@@ -11,3 +11,11 @@ Create a NuGet package library and automatically build, test, pack and publish i
 
 - Create a **Class Library**
 
+- Setup package
+<img src="/pictures/setup.png" title="setup package"  width="800">
+
+- package source
+<img src="/pictures/package_source.png" title="package source"  width="800">
+
+- Create and run pipeline
+<img src="/pictures/pipeline.png" title="pipeline"  width="800">
