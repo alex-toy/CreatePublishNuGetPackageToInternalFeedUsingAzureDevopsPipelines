@@ -3,3 +3,10 @@
 Create a NuGet package library and automatically build, test, pack and publish it to an internal NuGet feed using Azure Devops build pipelines.
 
 https://www.youtube.com/watch?v=6YahtMwBdfQ
+
+
+- Create repo
+<img src="/pictures/repo.png" title="role assignment"  width="800">
+
+- In VS Code, cloned the repo
+<img src="/pictures/repo.png" title="role assignment"  width="800">
